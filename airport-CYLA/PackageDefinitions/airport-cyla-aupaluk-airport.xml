@@ -1,4 +1,4 @@
-<AssetPackage Name="jamesxl-airport-cyla-aupaluk" Version="0.1.0">
+<AssetPackage Name="airport-cyla-aupaluk-airport" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title/>
@@ -15,16 +15,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\jamesxl-airport-cyla-aupaluk\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\jamesxl-airport-cyla-aupaluk</OutputDir>
+			<AssetDir>PackageDefinitions\airport-cyla-aupaluk-airport\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\airport-cyla-aupaluk-airport\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="airport-cyla-aupaluk">
+		<AssetGroup Name="airport-cyla-aupaluk-airport">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
