@@ -1,0 +1,8 @@
+<Project Version="2" Name="airport-CYKO-Akulivik-Airport" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\airport-cyko-akulivik-airport.xml</Package>
+	</Packages>
+</Project>
+
