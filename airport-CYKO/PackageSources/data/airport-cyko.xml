@@ -1,5 +1,17 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
+	<!--SceneryObject name: FuelStation_Object01-->
+	<SceneryObject lat="60.81828415631787" lon="-78.15477856180355" alt="0.00000000000000" pitch="0.001359" bank="-0.001359" heading="-111.500147" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{39729C89-8E25-49B3-BC72-704AA66C9286}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FuelStation_Object06-->
+	<SceneryObject lat="60.81826412078798" lon="-78.15475751440897" alt="0.00000000000000" pitch="0.000874" bank="-0.000874" heading="65.503119" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{02A9E4EE-F6F8-45B3-8D85-FE86510288B6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FuelStation_Object07-->
+	<SceneryObject lat="60.81824852616160" lon="-78.15473733454543" alt="0.00000000000000" pitch="0.001236" bank="-0.001236" heading="62.331985" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4E3E85D3-1E93-4578-9C62-DBC489796FFC}" scale="1.000000"/>
+	</SceneryObject>
 	<SceneryObject lat="60.81717092562417" lon="-78.15609130750175" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
@@ -7,33 +19,34 @@
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<Airport region="QC" country="Canada" state="Québec" city="Akulivik" name="Akulivik Airport" ident="CYKO" lat="60.81883186556635" lon="-78.14756896431352" alt="61.97447306010872" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="882.00010843630992" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
-		<TaxiwayPoint index="7" type="NORMAL" orientation="FORWARD" lat="60.81786139601978" lon="-78.15617104550331"/>
-		<TaxiwayPoint index="8" type="NORMAL" orientation="FORWARD" lat="60.81773900411120" lon="-78.15604802335480"/>
-		<TaxiwayPoint index="9" type="NORMAL" orientation="FORWARD" lat="60.81755739125694" lon="-78.15586350128794"/>
-		<TaxiwayPoint index="10" type="NORMAL" orientation="FORWARD" lat="60.81725021518510" lon="-78.15555173171485"/>
-		<TaxiwayPoint index="11" type="NORMAL" orientation="FORWARD" lat="60.81709756315572" lon="-78.15540484098578"/>
-		<TaxiwayPoint index="12" type="NORMAL" orientation="FORWARD" lat="60.81697016739066" lon="-78.15540883197296"/>
-		<TaxiwayPoint index="13" type="NORMAL" orientation="FORWARD" lat="60.81685755322219" lon="-78.15549383393038"/>
-		<TaxiwayPoint index="14" type="NORMAL" orientation="FORWARD" lat="60.81677509740560" lon="-78.15558975982047"/>
 		<TaxiwayPoint index="15" type="NORMAL" orientation="FORWARD" lat="60.81608532859391" lon="-78.15802380999065"/>
-		<TaxiwayPoint index="16" type="NORMAL" orientation="FORWARD" lat="60.81703659301189" lon="-78.15517616623589"/>
-		<TaxiwayPoint index="17" type="NORMAL" orientation="FORWARD" lat="60.81699450843728" lon="-78.15494466630082"/>
+		<TaxiwayPoint index="14" type="NORMAL" orientation="FORWARD" lat="60.81677509740560" lon="-78.15558975982047"/>
+		<TaxiwayPoint index="13" type="NORMAL" orientation="FORWARD" lat="60.81685755322219" lon="-78.15549383393038"/>
+		<TaxiwayPoint index="12" type="NORMAL" orientation="FORWARD" lat="60.81697016739066" lon="-78.15540883197296"/>
 		<TaxiwayPoint index="18" type="NORMAL" orientation="FORWARD" lat="60.81699445765044" lon="-78.15478415498649"/>
-		<TaxiwayPoint index="19" type="NORMAL" orientation="FORWARD" lat="60.82073443654760" lon="-78.14190167323132"/>
+		<TaxiwayPoint index="17" type="NORMAL" orientation="FORWARD" lat="60.81699450843728" lon="-78.15494466630082"/>
+		<TaxiwayPoint index="16" type="NORMAL" orientation="FORWARD" lat="60.81703659301189" lon="-78.15517616623589"/>
+		<TaxiwayPoint index="11" type="NORMAL" orientation="FORWARD" lat="60.81709756315572" lon="-78.15540484098578"/>
+		<TaxiwayPoint index="10" type="NORMAL" orientation="FORWARD" lat="60.81725021518510" lon="-78.15555173171485"/>
+		<TaxiwayPoint index="9" type="NORMAL" orientation="FORWARD" lat="60.81755739125694" lon="-78.15586350128794"/>
 		<TaxiwayPoint index="20" type="NORMAL" orientation="FORWARD" lat="60.81756787871854" lon="-78.15608037552686"/>
 		<TaxiwayPoint index="21" type="NORMAL" orientation="FORWARD" lat="60.81759199825999" lon="-78.15641795719120"/>
-		<TaxiwayPoint index="22" type="NORMAL" orientation="FORWARD" lat="60.81772075039243" lon="-78.15656310871108"/>
-		<TaxiwayPoint index="23" type="NORMAL" orientation="FORWARD" lat="60.81785614936520" lon="-78.15671034016179"/>
 		<TaxiwayPoint index="24" type="NORMAL" orientation="FORWARD" lat="60.81768546064031" lon="-78.15566082579539"/>
+		<TaxiwayPoint index="22" type="NORMAL" orientation="FORWARD" lat="60.81772075039243" lon="-78.15656310871108"/>
+		<TaxiwayPoint index="8" type="NORMAL" orientation="FORWARD" lat="60.81773900411120" lon="-78.15604802335480"/>
 		<TaxiwayPoint index="25" type="NORMAL" orientation="FORWARD" lat="60.81782289913323" lon="-78.15555687565106"/>
+		<TaxiwayPoint index="23" type="NORMAL" orientation="FORWARD" lat="60.81785614936520" lon="-78.15671034016179"/>
+		<TaxiwayPoint index="7" type="NORMAL" orientation="FORWARD" lat="60.81786139601978" lon="-78.15617104550331"/>
 		<TaxiwayPoint index="26" type="NORMAL" orientation="FORWARD" lat="60.81796328255992" lon="-78.15569764424177"/>
 		<TaxiwayPoint index="27" type="NORMAL" orientation="FORWARD" lat="60.81808027569424" lon="-78.15581599258491"/>
-		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="60.81756121291694" lon="-78.15658728205534" heading="249.580704" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="60.81767350272676" lon="-78.15672724946411" heading="239.484756" radius="5.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="60.81780109309958" lon="-78.15687544913958" heading="235.675156" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayPoint index="19" type="NORMAL" orientation="FORWARD" lat="60.82073443654760" lon="-78.14190167323132"/>
+		<TaxiwayParking index="28" type="FUEL" lat="60.81824264770032" lon="-78.15482662493696" heading="180.000000" radius="4.650001" name="NONE" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="3" type="RAMP_GA_SMALL" lat="60.81812349655828" lon="-78.15568042019105" heading="56.863594" radius="5.000000" name="NONE" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="4" type="RAMP_GA_SMALL" lat="60.81800552849011" lon="-78.15553908691093" heading="47.377338" radius="5.000000" name="NONE" number="6" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="5" type="RAMP_GA_SMALL" lat="60.81788984413427" lon="-78.15540724395210" heading="47.506889" radius="5.000000" name="NONE" number="7" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="60.81756121291694" lon="-78.15658728205534" heading="249.580704" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="60.81767350272676" lon="-78.15672724946411" heading="239.484756" radius="5.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="60.81780109309958" lon="-78.15687544913958" heading="235.675156" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="6" type="RAMP_GA_SMALL" lat="60.81796883444942" lon="-78.15628803658663" heading="331.996460" radius="5.000000" name="PARKING" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="21" end="0" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
@@ -95,6 +108,35 @@
 				<Vertex lat="60.81727857666245" lon="-78.15513591412035"/>
 				<Vertex lat="60.81725295047374" lon="-78.15495190566743"/>
 				<Vertex lat="60.81721914040240" lon="-78.15478831908449"/>
+			</Apron>
+			<Apron surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="60.81810228931656" lon="-78.15549204843596"/>
+				<Vertex lat="60.81825689522507" lon="-78.15493546749549"/>
+				<Vertex lat="60.81826021673768" lon="-78.15492755211127"/>
+				<Vertex lat="60.81826446374409" lon="-78.15492349053797"/>
+				<Vertex lat="60.81826911575693" lon="-78.15492702287736"/>
+				<Vertex lat="60.81831314945295" lon="-78.15497390546344"/>
+				<Vertex lat="60.81831581093626" lon="-78.15497629974762"/>
+				<Vertex lat="60.81831949992883" lon="-78.15497169295843"/>
+				<Vertex lat="60.81832159561013" lon="-78.15496358996501"/>
+				<Vertex lat="60.81836213374617" lon="-78.15480684787811"/>
+				<Vertex lat="60.81836434876779" lon="-78.15479469470927"/>
+				<Vertex lat="60.81836269507752" lon="-78.15478537662601"/>
+				<Vertex lat="60.81835849342868" lon="-78.15478108081729"/>
+				<Vertex lat="60.81819627480422" lon="-78.15460664350552"/>
+				<Vertex lat="60.81818936189930" lon="-78.15460084529202"/>
+				<Vertex lat="60.81818198523367" lon="-78.15460162526810"/>
+				<Vertex lat="60.81817537859173" lon="-78.15461131756349"/>
+				<Vertex lat="60.81814293214329" lon="-78.15474811614413"/>
+				<Vertex lat="60.81813840143886" lon="-78.15476883757458"/>
+				<Vertex lat="60.81814154550595" lon="-78.15478421657825"/>
+				<Vertex lat="60.81814777421977" lon="-78.15479257861098"/>
+				<Vertex lat="60.81818803241617" lon="-78.15483435626412"/>
+				<Vertex lat="60.81819191492472" lon="-78.15483854637776"/>
+				<Vertex lat="60.81819330108395" lon="-78.15484255280654"/>
+				<Vertex lat="60.81819284224557" lon="-78.15484817365926"/>
+				<Vertex lat="60.81819043703526" lon="-78.15485784736956"/>
+				<Vertex lat="60.81803709318024" lon="-78.15542067598872"/>
 			</Apron>
 		</Aprons>
 		<PaintedElements/>

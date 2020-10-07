@@ -8,6 +8,12 @@
 	<SceneryObject lat="59.30161660673033" lon="-69.59992704779049" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="98.062317" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{6B958704-E254-4EE2-AC94-B03BADAA5006}" scale="1.000000"/>
 	</SceneryObject>
+	<SceneryObject lat="59.29303959022794" lon="-69.60110216624581" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject lat="59.30045033983338" lon="-69.59725251600702" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-64.917526" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
 	<Airport region="QC" country="Canada" state="Québec" city="Aupaluk" name="Aupaluk Airport" ident="CYLA" lat="59.29621958468667" lon="-69.60086718056793" alt="16.47172386548969" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
 		<TaxiwayPoint index="4" type="NORMAL" orientation="FORWARD" lat="59.29237940308980" lon="-69.60230505841432"/>
 		<TaxiwayPoint index="5" type="NORMAL" orientation="FORWARD" lat="59.30109403158366" lon="-69.59753949138585"/>
