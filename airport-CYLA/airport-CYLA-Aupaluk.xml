@@ -1,0 +1,8 @@
+<Project Version="2" Name="airport-CYLA-Aupaluk" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\jamesxl-airport-cyla-aupaluk.xml</Package>
+	</Packages>
+</Project>
+
