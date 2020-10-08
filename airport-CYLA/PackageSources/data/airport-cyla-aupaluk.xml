@@ -15,25 +15,27 @@
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<Airport region="QC" country="Canada" state="Québec" city="Aupaluk" name="Aupaluk Airport" ident="CYLA" lat="59.29621958468667" lon="-69.60086718056793" alt="16.47172386548969" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
-		<TaxiwayPoint index="4" type="NORMAL" orientation="FORWARD" lat="59.29237940308980" lon="-69.60230505841432"/>
-		<TaxiwayPoint index="5" type="NORMAL" orientation="FORWARD" lat="59.30109403158366" lon="-69.59753949138585"/>
 		<TaxiwayPoint index="6" type="HOLD_SHORT_NO_DRAW" orientation="REVERSE" lat="59.30142275429311" lon="-69.59807201446671"/>
+		<TaxiwayPoint index="4" type="NORMAL" orientation="FORWARD" lat="59.29237940308980" lon="-69.60230505841432"/>
+		<TaxiwayPoint index="13" type="NORMAL" orientation="FORWARD" lat="59.29673671733673" lon="-69.59992227490008"/>
+		<TaxiwayPoint index="5" type="NORMAL" orientation="FORWARD" lat="59.30109403158366" lon="-69.59753949138585"/>
+		<TaxiwayPoint index="12" type="NORMAL" orientation="FORWARD" lat="59.30195935003727" lon="-69.59957931605784"/>
 		<TaxiwayPoint index="7" type="NORMAL" orientation="FORWARD" lat="59.30209778989056" lon="-69.59858473353096"/>
 		<TaxiwayPoint index="8" type="NORMAL" orientation="FORWARD" lat="59.30219394362705" lon="-69.59879971494809"/>
+		<TaxiwayPoint index="11" type="NORMAL" orientation="FORWARD" lat="59.30220189915762" lon="-69.59950975945057"/>
 		<TaxiwayPoint index="9" type="NORMAL" orientation="FORWARD" lat="59.30223780891585" lon="-69.59903043709166"/>
 		<TaxiwayPoint index="10" type="NORMAL" orientation="FORWARD" lat="59.30228069192771" lon="-69.59925463017389"/>
-		<TaxiwayPoint index="11" type="NORMAL" orientation="FORWARD" lat="59.30220189915762" lon="-69.59950975945057"/>
-		<TaxiwayPoint index="12" type="NORMAL" orientation="FORWARD" lat="59.30195935003727" lon="-69.59957931605784"/>
 		<TaxiwayParking index="0" type="FUEL" lat="59.30162911163319" lon="-69.59969388952265" heading="187.330353" radius="12.199469" name="PARKING" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="59.30259352578799" lon="-69.59862263885002" heading="12.769176" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="59.30262701857708" lon="-69.59888066901274" heading="11.132813" radius="5.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="3" type="RAMP_GA_SMALL" lat="59.30265478670133" lon="-69.59914969401798" heading="8.163451" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="59.30262701857708" lon="-69.59888066901274" heading="11.132813" radius="5.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="59.30259352578799" lon="-69.59862263885002" heading="12.769176" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="12" end="0" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="8" end="1" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="9" end="2" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="10" end="3" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="4" end="5" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="RUNWAY" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="4" end="13" width="30.000000" weightLimit="0" number="04" designator="NONE" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="RUNWAY" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="13" end="5" width="30.000000" weightLimit="0" number="22" designator="NONE" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="5" end="6" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="6" end="7" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="7" end="8" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
