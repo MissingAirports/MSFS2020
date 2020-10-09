@@ -1,0 +1,31 @@
+<AssetPackage Name="airport-cyas-kangirsuk-airport" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator>JamesxL</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\airport-cyas-kangirsuk-airport\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\airport-cyas-kangirsuk-airport</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport-cyas-kangirsuk-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
