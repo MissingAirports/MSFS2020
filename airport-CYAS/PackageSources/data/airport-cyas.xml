@@ -7,21 +7,21 @@
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<Airport region="QC" country="Canada" state="Québec" city="Kangirsuk" name="Kangirsuk Airport" ident="CYAS" lat="60.02823709538955" lon="-69.99943503898358" alt="71.91577356588095" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
-		<TaxiwayPoint index="5" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="60.02294345696336" lon="-70.00159852033148"/>
-		<TaxiwayPoint index="8" type="NORMAL" orientation="FORWARD" lat="60.02203891397073" lon="-70.00137540809099"/>
-		<TaxiwayPoint index="7" type="NORMAL" orientation="FORWARD" lat="60.02272439513942" lon="-70.00115583993140"/>
-		<TaxiwayPoint index="6" type="NORMAL" orientation="FORWARD" lat="60.02284709904565" lon="-70.00134065212183"/>
-		<TaxiwayPoint index="4" type="NORMAL" orientation="FORWARD" lat="60.02299188128784" lon="-70.00225502411575"/>
-		<TaxiwayPoint index="2" type="NORMAL" orientation="FORWARD" lat="60.02305061386974" lon="-70.00287389659135"/>
-		<TaxiwayPoint index="9" type="NORMAL" orientation="FORWARD" lat="60.02306196807051" lon="-70.00121152428696"/>
-		<TaxiwayPoint index="10" type="NORMAL" orientation="FORWARD" lat="60.02315322767322" lon="-70.00101430343292"/>
-		<TaxiwayPoint index="14" type="NORMAL" orientation="FORWARD" lat="60.02321532318067" lon="-70.00298517187035"/>
-		<TaxiwayPoint index="13" type="NORMAL" orientation="FORWARD" lat="60.02536548886454" lon="-70.00030760948925"/>
-		<TaxiwayPoint index="12" type="NORMAL" orientation="FORWARD" lat="60.02757775003941" lon="-69.99960091553015"/>
-		<TaxiwayPoint index="11" type="NORMAL" orientation="FORWARD" lat="60.03200227242910" lon="-69.99818752761112"/>
-		<TaxiwayParking index="0" type="FUEL" lat="60.02287128968752" lon="-70.00335662376651" heading="-126.583710" radius="15.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="3" type="RAMP_GA_MEDIUM" lat="60.02334265743999" lon="-70.00323533089811" heading="-44.516087" radius="14.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayPoint index="2" type="NORMAL" orientation="FORWARD" lat="60.02305061386586" lon="-70.00287389659515"/>
+		<TaxiwayPoint index="4" type="NORMAL" orientation="FORWARD" lat="60.02299188129704" lon="-70.00225502410521"/>
+		<TaxiwayPoint index="5" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="60.02294345697089" lon="-70.00159852032682"/>
+		<TaxiwayPoint index="6" type="NORMAL" orientation="FORWARD" lat="60.02284709902294" lon="-70.00134065214539"/>
+		<TaxiwayPoint index="7" type="NORMAL" orientation="FORWARD" lat="60.02272439516508" lon="-70.00115583991135"/>
+		<TaxiwayPoint index="8" type="NORMAL" orientation="FORWARD" lat="60.02203891395321" lon="-70.00137540809742"/>
+		<TaxiwayPoint index="9" type="NORMAL" orientation="FORWARD" lat="60.02306196808293" lon="-70.00121152426895"/>
+		<TaxiwayPoint index="10" type="NORMAL" orientation="FORWARD" lat="60.02315322770679" lon="-70.00101430342158"/>
+		<TaxiwayPoint index="11" type="NORMAL" orientation="FORWARD" lat="60.03200227242463" lon="-69.99818752761136"/>
+		<TaxiwayPoint index="12" type="NORMAL" orientation="FORWARD" lat="60.02757775003711" lon="-69.99960091553066"/>
+		<TaxiwayPoint index="13" type="NORMAL" orientation="FORWARD" lat="60.02536548886967" lon="-70.00030760948059"/>
+		<TaxiwayPoint index="14" type="NORMAL" orientation="FORWARD" lat="60.02321532318965" lon="-70.00298517186590"/>
+		<TaxiwayParking index="0" type="FUEL" lat="60.02287128968752" lon="-70.00335662376651" heading="233.416290" radius="15.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="60.02343958755774" lon="-70.00290118859675" heading="10.615437" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="3" type="RAMP_GA_MEDIUM" lat="60.02334265743999" lon="-70.00323533089811" heading="315.483917" radius="14.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="2" end="0" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="14" end="1" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
@@ -45,8 +45,10 @@
 			<Lights center="NONE" edge="NONE"/>
 			<Overrun end="PRIMARY" length="95.000000"/>
 			<Overrun end="SECONDARY" length="55.000000"/>
-			<RunwayStart end="PRIMARY" lat="60.02229038553161" lon="-70.00129412620791" alt="69.74291641078889" heading="8.96781253814697"/>
-			<RunwayStart end="SECONDARY" lat="60.03193068771120" lon="-69.99819560086191" alt="69.69493052177131" heading="188.96765136718750"/>
+			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="28.228884" biasZ="526.099121" spacing="90.000000" pitch="0.000000"/>
+			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="47.766354" biasZ="468.370422" spacing="90.000000" pitch="0.000000"/>
+			<RunwayStart end="PRIMARY" lat="60.02229695367417" lon="-70.00129412620136" alt="76.39044911228120" heading="8.96781253814697"/>
+			<RunwayStart end="SECONDARY" lat="60.03193068768466" lon="-69.99819560084920" alt="95.73120751604438" heading="188.96765136718750"/>
 		</Runway>
 		<Aprons>
 			<Apron surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">

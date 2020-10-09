@@ -1,0 +1,8 @@
+<Project Version="2" Name="airport-CYBB-Kugaaruk-Airport" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\airport-cybb-kugaaruk-airport.xml</Package>
+	</Packages>
+</Project>
+

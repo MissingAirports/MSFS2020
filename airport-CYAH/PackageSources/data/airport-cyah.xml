@@ -94,6 +94,10 @@
 			<Lights center="NONE" edge="NONE"/>
 			<Overrun end="PRIMARY" length="60.000000"/>
 			<Overrun end="SECONDARY" length="60.000000"/>
+			<Vasi end="PRIMARY" side="LEFT" type="TVASI" biasX="42.011986" biasZ="707.404785" spacing="90.000000" pitch="0.000000"/>
+			<Vasi end="PRIMARY" side="RIGHT" type="TVASI" biasX="42.263309" biasZ="701.746704" spacing="90.000000" pitch="0.000000"/>
+			<Vasi end="SECONDARY" side="LEFT" type="TVASI" biasX="45.605938" biasZ="705.036621" spacing="90.000000" pitch="0.000000"/>
+			<Vasi end="SECONDARY" side="RIGHT" type="TVASI" biasX="36.426296" biasZ="707.986206" spacing="90.000000" pitch="0.000000"/>
 			<RunwayStart end="PRIMARY" lat="53.75265032844558" lon="-73.68652382572009" alt="285.20808194112033" heading="74.16935729980469"/>
 			<RunwayStart end="SECONDARY" lat="53.75628257789377" lon="-73.66501587269032" alt="285.15815815422684" heading="254.16940307617188"/>
 		</Runway>
